@@ -1,0 +1,11 @@
+.blog__content {
+    img {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .description {
+        text-align: justify;
+        padding: 0 20px;
+    }
+}

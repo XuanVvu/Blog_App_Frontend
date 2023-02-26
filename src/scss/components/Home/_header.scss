@@ -1,0 +1,22 @@
+@import '../../variables';
+.header__content {
+    text-align: center;
+    padding-top: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    h2 {
+        font-weight: bold;
+        color: #0080ff;
+    }
+    h1 {
+        font-weight: bold;
+        font-size: 3rem;
+        color: $logo-color;
+        span {
+            color: #b0c4de;
+        }
+    }
+    p {
+        color: $text-color;
+        font-weight: 600;
+    }
+}
